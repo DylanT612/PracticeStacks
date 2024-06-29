@@ -1,0 +1,1 @@
+There are two different bags sorted and unsorted. A simple stack array for example [1,2,3,4,5] then to clear [5,4,3,2,1]. And a sorted bag based on alphanumericvalue the item is appended to the array list. 
